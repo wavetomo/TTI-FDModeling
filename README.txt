@@ -279,10 +279,6 @@ Currently present executables include:
 - `suTTI-FDModeling2dTTIelastic_coordinate_rotation`
 - `suTTI-FDModeling2dTTIelastic_tensor_rotation`
 - `suTTI-FDModeling2dTTIelastic_bond_transformation`
-- `suTTI-FDModeling2dTTIelastic.v1.0`
-- `suTTI-FDModeling2dTTIelastic.v2.0`
-- `suTTI-FDModeling2dTTIelastic.v3.0`
-- `suTTI-FDModeling2dTTIelastic.v4.0`
 
 The last four are legacy version-named executables that still remain in the repository as
 built artifacts.
